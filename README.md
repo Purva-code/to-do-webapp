@@ -1,2 +1,2 @@
-# to-do-webapp
-add, update, delete tasks
+# To do web app using Django
+Add, update, delete tasks
